@@ -1,28 +1,132 @@
-{
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
-
-    "bio": "MY BIO",
-    "fun": "FUN STATEMENT",
-
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-
-    "aboutme": {
-        "para1": "This is Paragraph 1",
-        "para2": "This is Paragraph 2"
+[
+    {
+      "SUMMARY": "Terrain de pétanque",
+      "Family": "Boulodrome",
+      "Latitude": "48.86701",
+      "Longitude": "2.35399",
+      "groundType": "Stabilisé/cendrée",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "petanque",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
     },
-
-    "volunteer": {
-        "tfi": {
-            "heading": "Teach For India",
-            "description": "description of TFI"
-        },
-        "pisb": {
-            "heading": "PICT IEEE Student Branch",
-            "description": "description of PISB"
-        }
+    {
+      "SUMMARY": "Terrain de pétanque",
+      "Family": "Boulodrome",
+      "Latitude": "48.85363",
+      "Longitude": "2.3576",
+      "groundType": "Stabilisé/cendrée",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "petanque",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Terrain de pétanque",
+      "Family": "Boulodrome",
+      "Latitude": "48.85392",
+      "Longitude": "2.35914",
+      "groundType": "Stabilisé/cendrée",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "petanque",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Terrain de pétanque",
+      "Family": "Boulodrome",
+      "Latitude": "48.84507",
+      "Longitude": "2.35286",
+      "groundType": "Stabilisé/cendrée",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "petanque",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Multisports/Stades",
+      "Family": "Plateau EPS",
+      "Latitude": "48.85308",
+      "Longitude": "2.30085",
+      "groundType": "Béton",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "stade",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Terrain de basket-ball",
+      "Family": "Terrain extérieur de petits jeux collectifs",
+      "Latitude": "48.85324",
+      "Longitude": "2.30113",
+      "groundType": "Béton",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "basket",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Parcours sportif/santé",
+      "Family": "Parcours sportif/santé",
+      "Latitude": "48.863084",
+      "Longitude": "2.309102",
+      "groundType": "Béton",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "sante",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Multisports/Stades",
+      "Family": "Plateau EPS",
+      "Latitude": "48.8825",
+      "Longitude": "2.3442",
+      "groundType": "Béton",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "stade",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Terrain de pétanque",
+      "Family": "Boulodrome",
+      "Latitude": "48.88253",
+      "Longitude": "2.34439",
+      "groundType": "Stabilisé/cendrée",
+      "Environement": "Découvert",
+      "Atlas": "Equipements Ext.",
+      "TYPE": "petanque",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
+    },
+    {
+      "SUMMARY": "Terrain de soccer",
+      "Family": "Salle ou terrain spécialisé",
+      "Latitude": "48.87559",
+      "Longitude": "2.362022",
+      "groundType": "Béton",
+      "Environement": null,
+      "Atlas": "Salles de pratiques collectives",
+      "TYPE": "football",
+      "PIPETTES": {
+        "valueType": "IMAGE"
+      }
     }
-}
+]
